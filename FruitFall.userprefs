@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scenes\TouchDestroy.cs">
+    <Files>
+      <File FileName="Assets\Scenes\TouchDestroy.cs" Line="29" Column="26" />
+      <File FileName="Assets\Scenes\FruitSpawn.cs" Line="33" Column="43" />
+      <File FileName="Assets\Scenes\SpawnWallKZ.cs" Line="16" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
